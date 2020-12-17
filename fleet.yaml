@@ -1,4 +1,5 @@
-namespace: rancher-demo
+defaultNamespace: rancher-demo
+
 targetCustomizations:
 - name: dev
   clusterSelector:
