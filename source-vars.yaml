@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: rancher-demo-config
+data:
+  MY_NAMESPACE: rancher-demo
+  COW_COLOR: pink
